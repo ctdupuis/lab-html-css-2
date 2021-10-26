@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+}
+
+div {
+    min-height: 70px;
+    min-width: 70px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.grey-bar {
+    background-color: lightgrey;
+    padding: 2%;
+}
+
+.blue-square {
+    background-color: rgb(75, 135, 184);
+}
+
+.latin {
+    padding: 4%;
+}
+
+.color-line {
+    height: 200px;
+}
